@@ -56,12 +56,6 @@ Al enviarlo, se muestra una alerta confirmando el envío simulado (no funcional 
 
 ---
 
-## 📷 Capturas (opcional)
-
-Puedes agregar capturas del sitio en funcionamiento aquí si deseas documentar visualmente el proyecto.
-
----
-
 ## 👤 Autor
 
 **EstebanVeAz** 
