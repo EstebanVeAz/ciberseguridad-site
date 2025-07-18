@@ -1,0 +1,17 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f8f9fa;
+}
+
+header {
+  background-image: linear-gradient(to bottom right, #000000d0, #1f1f1fd0), url('../img/seguridad-digital.png');
+  background-size: cover;
+  background-position: center;
+  color: white;
+  padding: 100px 20px;
+  text-shadow: 1px 1px 4px black;
+}
+
+footer {
+  font-size: 0.9rem;
+}   
