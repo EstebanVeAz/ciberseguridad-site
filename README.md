@@ -1,6 +1,6 @@
 # 🌐 Sitio Web Informativo de Ciberseguridad
 
-Este proyecto es un sitio web informativo sobre **ciberseguridad**, desarrollado como parte de un portafolio del bootcamp **Oracle Next Education (ONE) - Alura Latam**. El objetivo es concientizar sobre los riesgos en el mundo digital y entregar recomendaciones para proteger la información personal.
+Este proyecto es un sitio web informativo sobre **ciberseguridad**, desarrollado como parte de un portafolio. El objetivo es concientizar sobre los riesgos en el mundo digital y entregar recomendaciones para proteger la información personal.
 
 ---
 
