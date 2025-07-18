@@ -1,10 +1,11 @@
 body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  background-color: #f8f9fa;
+  background-color: #131415;
+  color: #f0f0f0;
 }
 
 header {
-  background-image: linear-gradient(to bottom right, #000000d0, #1f1f1fd0), url('../img/seguridad-digital.png');
+  background-image: linear-gradient(to bottom right, #000000d0, #1f1f1fd0), url('assets/img/seguridad.jpg');
   background-size: cover;
   background-position: center;
   color: white;
